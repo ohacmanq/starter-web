@@ -6,4 +6,6 @@ je mets cette version dans le commit area en addant puis comittant
 
 ## Partie I
 
+je mets cette version dans le staging area en addant seulement
+
 ## Partie II
