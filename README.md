@@ -1,14 +1,14 @@
 # Starter Web Repo
 
-## Add + commit
+## Add + commit bis
 
 je mets cette version dans le commit area en addant puis comittant
 
-## Partie I
+## Add
 
 je mets cette version dans le staging area en addant seulement
 
-## Partie II
+## Untrack
 
 je mets cette version dans le working directory en ne le trackant pas
 
