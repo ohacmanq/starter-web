@@ -1,1 +1,0 @@
-Je teste pour voir si le nouveau commit ne sera pas avec la mention "origin/HEAD" et "origin/master"
