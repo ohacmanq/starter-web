@@ -13,3 +13,6 @@ je mets cette version dans le staging area en addant seulement
 je mets cette version dans le working directory en ne le trackant pas
 
 ## Partie III
+
+## Copyright
+J'ajoute un copyright
