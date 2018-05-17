@@ -3,8 +3,7 @@
 
 # TEAM
 
-    Orel HACMAN orelhacman@gmail.com
-Jerome PAPAPHOTIOU
+    Je suis sur la branche test_merge_conflict ici
 
 # THANKS
 
@@ -12,5 +11,4 @@ Jerome PAPAPHOTIOU
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Et ici aussi je suis sur la branche test_merge_conflict
