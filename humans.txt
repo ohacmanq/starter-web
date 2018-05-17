@@ -3,12 +3,21 @@
 
 # TEAM
 
+<<<<<<< HEAD
     Ici, je suis sur la branche master
 Jerome PAPAPHOTIOU
+=======
+    Je suis sur la branche test_merge_conflict ici
+>>>>>>> test_merge_conflict
 
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
+<<<<<<< HEAD
 Et ici aussi je suis sur la branche master
+=======
+
+    Et ici aussi je suis sur la branche test_merge_conflict
+>>>>>>> test_merge_conflict
