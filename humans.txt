@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Ici, je suis sur la branche master
+    Ici, je suis sur la branche master jpp de ce test
 Jerome PAPAPHOTIOU
 
 
@@ -13,4 +13,4 @@ Jerome PAPAPHOTIOU
 
 # TECHNOLOGY COLOPHON
 
-    Et ici aussi je suis sur la branche test_merge_conflict
+    Et ici aussi je suis sur la branche master jpp
