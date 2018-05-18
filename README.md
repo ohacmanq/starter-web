@@ -18,3 +18,4 @@ je mets cette version dans le working directory en ne le trackant pas
 J'ajoute un copyright
 
 ## Test_rebase sur la branche master
+Le test a marché, maintenant je change le readme sur la branche test_rebase pour ensuite merger
