@@ -14,3 +14,6 @@ Jerome PAPAPHOTIOU
 # TECHNOLOGY COLOPHON
 
     Et ici aussi je suis sur la branche test_merge
+
+# TEST SUR REBASE
+Je teste le rebase
