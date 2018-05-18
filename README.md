@@ -17,5 +17,4 @@ je mets cette version dans le working directory en ne le trackant pas
 ## Copyright
 J'ajoute un copyright
 
-## Simple changes
-Remarque ajoutée sur master
+## Test_rebase sur la branche master
